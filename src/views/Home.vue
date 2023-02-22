@@ -1,9 +1,9 @@
 <template>
-  <Banner />
+  <CMP_Banner />
 
   <div class="container mx-auto px-10 pb-[20px] md:px-0">
     <div class="w-full flex justify-between md:block">
-      <Card
+      <CMP_Card
         class="m-4"
         v-for="(el, i) in cardData"
         :key="i"
@@ -20,8 +20,8 @@
 import { ref } from 'vue';
 
 // Import Components
-import Banner from '../components/misc/Banner.vue';
-import Card from '../components/misc/Card.vue';
+import CMP_Banner from '../components/misc/Banner.vue';
+import CMP_Card from '../components/misc/Card.vue';
 
 // Set Datas
 const cardData = ref([
