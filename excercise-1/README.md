@@ -3,8 +3,8 @@
 ```
 Additional Technology Used:
 
-- Tailwind: I've used tailwind CSS for utility classes.
-- Daisy UI: For tailwind code enchancements.
+- Tailwind: I've used tailwind CSS for utility classes. (https://tailwindcss.com/)
+- Daisy UI: For tailwind code enchancements. (https://daisyui.com/)
 ```
 
 ## Project setup
