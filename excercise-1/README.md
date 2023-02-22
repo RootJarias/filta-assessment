@@ -1,9 +1,11 @@
 # Excercise 1
 
-Technology Used:
+```
+Additional Technology Used:
 
-> Tailwind: I've used tailwind CSS for utility classes
-> Daisy UI: For tailwind code enchancements
+- Tailwind: I've used tailwind CSS for utility classes.
+- Daisy UI: For tailwind code enchancements.
+```
 
 ## Project setup
 
