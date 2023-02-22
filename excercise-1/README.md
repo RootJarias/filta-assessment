@@ -1,9 +1,9 @@
 # Excercise 1
 
 ```
-Additional Technology Used:
+Library/Technology Used:
 
-- Tailwind: I've used tailwind CSS for utility classes. (https://tailwindcss.com/)
+- Tailwind CSS: I've used tailwind CSS for utility classes. (https://tailwindcss.com/)
 - Daisy UI: For tailwind code enchancements. (https://daisyui.com/)
 ```
 
