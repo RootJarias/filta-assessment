@@ -1,7 +1,7 @@
 <template>
   <Banner />
 
-  <div class="container mx-auto pb-[20px]">
+  <div class="container mx-auto px-10 pb-[20px] md:px-0">
     <div class="w-full flex justify-between md:block">
       <Card
         class="m-4"
