@@ -1,4 +1,4 @@
-# Excercise 1
+# Excercise 1 & Excercise 2
 
 ```
 Library/Technology Used:
@@ -7,24 +7,18 @@ Library/Technology Used:
 - Daisy UI: For tailwind code enchancements. (https://daisyui.com/)
 ```
 
-## Project setup
+## Instructions
+
+#### 1.) Go to the path of the chosen excercise then insall the needed dependencies.
 
 ```
+cd excercise-1
+
 npm install
 ```
 
-### Compiles and hot-reloads for development
+#### 2.) To run the project simply do:
 
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
