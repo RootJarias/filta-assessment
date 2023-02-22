@@ -1,7 +1,7 @@
 <template>
   <section class="relative">
     <div
-      class="banner h-[55vh] bg-[url('@/assets/img/1920x650.png')] bg-[length:284%_250%] bg-center bg-no-repeat brightness-[70%]"
+      class="banner h-[55vh] bg-[url('@/assets/img/1920x650.png')] bg-[length:284%_250%] bg-center bg-no-repeat brightness-[70%] xl:bg-[length:170%_220%] sm:bg-cover"
     ></div>
     <div
       class="absolute w-full text-center left-1/2 top-[53%] -translate-x-1/2 -translate-y-1/2"
@@ -24,17 +24,3 @@
     </p>
   </section>
 </template>
-
-<style scoped>
-@media only screen and (min-width: 1200px) {
-  .banner {
-    background-size: 170% 220%;
-  }
-}
-
-@media only screen and (max-width: 767px) {
-  .banner {
-    background-size: cover;
-  }
-}
-</style>
