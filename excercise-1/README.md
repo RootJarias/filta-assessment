@@ -1,19 +1,28 @@
-# excercise-1
+# Excercise 1
+
+Technology Used:
+
+> Tailwind: I've used tailwind CSS for utility classes
+> Daisy UI: For tailwind code enchancements
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
 ### Compiles and minifies for production
+
 ```
 npm run build
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
