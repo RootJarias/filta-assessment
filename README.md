@@ -1,24 +1,31 @@
-# Excercise 1
-
-```
-Library/Technology Used:
-
-- Tailwind CSS: I've used tailwind CSS for utility classes. (https://tailwindcss.com/)
-- Daisy UI: For tailwind code enchancements. (https://daisyui.com/)
-```
-
 ## Instructions
 
-#### 1.) Go to the path of the chosen excercise then insall the needed dependencies.
+#### Project Setup and Run.
 
 ```
-cd excercise-1
+cd sprout-assessment
 
 npm install
+
+npm run dev
 ```
 
-#### 2.) To run the project simply do:
+#### Library/Technology Used.
 
 ```
-npm run serve
+- Vue Router (https://v3.router.vuejs.org/installation.html#direct-download-cdn)
+
+- Tailwind CSS (https://tailwindcss.com/)
+
+- Daisy UI  (https://daisyui.com/)
+
+- Pinia  (https://pinia.vuejs.org/introduction.html)
+
+- Auto Animate (https://auto-animate.formkit.com/#installation)
+```
+
+#### Notes.
+
+```
+- The data used in the data table is located in (src\assets\raw-data\announcement.json)
 ```
